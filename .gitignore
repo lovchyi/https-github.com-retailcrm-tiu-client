@@ -3,3 +3,4 @@ vendor
 config/config.php
 composer.lock
 composer.json
+config/config-dist.php
